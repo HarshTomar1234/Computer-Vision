@@ -1,0 +1,27 @@
+PLAYER TRACKING AND RE-IDENTIFICATION REPORT
+============================================================
+
+VIDEO INFORMATION:
+--------------------
+Filename: 15sec_input_720p.mp4
+Resolution: 1280x720
+FPS: 25
+Total Frames: 375
+Processed Frames: 375
+
+PERFORMANCE METRICS:
+--------------------
+Processing FPS: 0.78
+Average Processing Time: 1.2805s
+Total Unique Players: 4
+Average Detections per Frame: 0.3
+
+TRACKING DETAILS:
+--------------------
+Active Players: 0
+Disappeared Players: 4
+
+PLAYER DETAILS:
+---------------
+ANALYSIS COMPLETE
+============================================================
